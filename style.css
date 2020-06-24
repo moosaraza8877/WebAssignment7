@@ -1,0 +1,86 @@
+.main{
+    background-color: ghostwhite;
+    margin: 120px auto;
+    border: 1px solid grey;
+    width: 450px;
+    padding: 12px;
+    border: 1.5px solid grey;
+    border-radius: 5px;
+}
+.calc{
+    font-weight: bold;
+    color: black;
+    opacity: 0.7;
+    margin-top: -3px;
+    letter-spacing: 0.5px;
+}
+.input{
+    border-radius: 5px;
+    border-color: grey;
+    width: 442px;
+    height: 30px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-left: 0.5px;
+}
+.btn_Clear{
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 5px 0px 0px 25px;
+    width: 294px;
+    padding: 6px;
+    font-size: 16px;
+    background-color: gainsboro;
+    border-color: gainsboro;
+    color: black;
+    cursor: pointer;
+}
+.btn_Clear:hover{
+    opacity: 0.8;
+}
+.btn_divide{
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 5px 0px 0px 24px;
+    width: 79px;
+    padding: 6px;
+    font-size: 16px;
+    background-color: gainsboro;
+    border-color: gainsboro;
+    color: black;
+    cursor: pointer;
+}
+.btn_divide:hover{
+    opacity: 0.8;
+}
+.btn{
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 5px;
+    width: 79px;
+    padding: 8px;
+    margin-left: 24.5px;
+    font-size: 16px;
+    background-color: gainsboro;
+    border-color: gainsboro;
+    color: black;
+    cursor: pointer;
+}
+.btn:hover{
+    opacity: 0.8;
+}
+.btn_zero-equal{
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 5px 0px 5px 25px;
+    width: 185.5px;
+    padding: 6px;
+    font-size: 16px;
+    background-color: gainsboro;
+    border-color: gainsboro;
+    color: black;
+    cursor: pointer;
+}
+.btn_zero-equal:hover{
+    opacity: 0.8;
+}
